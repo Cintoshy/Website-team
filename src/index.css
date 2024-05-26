@@ -11,6 +11,9 @@ body {
     rgba(166, 227, 233, 1) 75%,
     rgba(113, 201, 206, 1) 100%
   );
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 100%;
 }
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
